@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="cdfe7383-5748-4bc5-b5de-1d81f49afcc0" />
+      <option name="name" value="cdfe7383-5748-4bc5-b5de-1d81f49afcc0" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="35820274-8750-4d6c-9cbf-87d33bc909cd" />
+      <option name="name" value="35820274-8750-4d6c-9cbf-87d33bc909cd" />
+      <option name="url" value="https://repo2.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="22b394b7-7f57-4dba-8c89-e009c5c8d55a" />
+      <option name="name" value="22b394b7-7f57-4dba-8c89-e009c5c8d55a" />
+      <option name="url" value="http://repository.jboss.org/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="24323db6-2e4d-4f44-93d0-a9fe4a117740" />
+      <option name="name" value="24323db6-2e4d-4f44-93d0-a9fe4a117740" />
+      <option name="url" value="http://mirrors.ibiblio.org/pub/mirrors/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="9c2b1b39-c7b3-4824-9ce8-e4887e82508f" />
+      <option name="name" value="9c2b1b39-c7b3-4824-9ce8-e4887e82508f" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+  </component>
+</project>
